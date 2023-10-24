@@ -1,4 +1,6 @@
+![alt text](https://github.com/elkoyote07/NotifAPI/blob/main/notifapi.png)
 # NotifAPI - Notification Management API
+
 
 The NotifAPI is a powerful tool that enables applications to efficiently send push notifications, emails, and SMS messages to users. This API facilitates user retention and re-engagement by providing an effective way to keep them informed and engaged.
 
